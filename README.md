@@ -17,6 +17,15 @@ Reduce函数设计不唯一，有想法的hxd如果设计出效果更好的算�
 
 ![图片](pic/src2.png)
 
-生成的透明灰度图如下（右键新标签页打开图片可以看黑底色下的显现情况）：
 
-![图片](pic/dst.png)
+生成的透明灰度图白色背景的情况如下：
+
+<div style="background-color:white;display:inline-block;">
+    <img alt="图片" src="pic/dst.png" />
+</div>
+
+生成的透明灰度图黑色背景的情况如下:
+
+<div style="background-color:black;display:inline-block;">
+    <img alt="图片" src="pic/dst.png" />
+</div>
