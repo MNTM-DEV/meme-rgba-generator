@@ -22,4 +22,4 @@ Reduce函数设计不唯一，有想法的hxd如果设计出效果更好的算�
 
 ![图片](pic/dst.png)
 
-对比黑白背景的视觉效果可以 [点击此处](compare.html)
+对比黑白背景的视觉效果可以 [点击此处](https://mntm-dev.github.io/meme-rgba-generator/compare.html)
